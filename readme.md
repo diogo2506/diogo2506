@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo  Diogo Cunha, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+👨‍💻 Me chamo  Diogo Cunha, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+
+### 🌍 Idiomas
+- 🇧🇷 **Português** - Nativo
+- 🇺🇸 **Inglês** - Fluente
+- 🇪🇸 **Espanhol** - Fluente
 <p align="left">
     <a href="https://github.com/diogo2506?tab=repositories&sort=stargazers">
         <img 
@@ -115,23 +120,17 @@ Me chamo  Diogo Cunha, tenho 23 anos e sou natural de São Paulo. Atualmente, es
 <br/>
 
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo2506&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td align="center">
+      <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo2506&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
 
 ### 🐍 Contribuições
 <picture>

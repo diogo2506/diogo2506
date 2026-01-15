@@ -1,4 +1,4 @@
-name: Generate Datas
+name: generate snake animation
 
 on:
   schedule: # execute every 12 hours
@@ -6,16 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate snake svg
+        uses: Platane/snk@master
         with:
-          github_user_name: diogo2506
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
