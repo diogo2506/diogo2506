@@ -121,20 +121,10 @@
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td align="center">
-      <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo2506&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo2506&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ### 🐍 Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogo2506/diogo2506/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogo2506/diogo2506/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diogo2506/diogo2506/output/github-contribution-grid-snake.svg">
-</picture>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/diogo2506/diogo2506/output/github-contribution-grid-snake.svg)
