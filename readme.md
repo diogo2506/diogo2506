@@ -121,7 +121,7 @@
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api.username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/username=diogo2506&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=diogo2506&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
